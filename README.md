@@ -2,7 +2,7 @@
 
 ### A curious data detective from India
 
-- 🌱 I'm currently learning **Deep learning (computer vision)**
+- 🌱 I'm currently learning **Deep learning (Natural Language Processing)**
 
 - 💬 Ask me about **SQL, Python, and business**
 
